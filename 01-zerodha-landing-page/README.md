@@ -1,0 +1,1 @@
+# Created this simple landing page in week-0 of 100x devs cohort 2 to practice some concepts of HTML and CSS
