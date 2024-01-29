@@ -1,0 +1,14 @@
+some personal notes
+
+dived a little more into react, learned more about state components, and re-rending in react, converting react code to build, created a simple counter in react, made a basic todo app in react(which I couldnt understand completely)
+
+
+Harkirat Singh Kamboj
+
+
+
+-react 5.1 class part where he creates a todo app
+
+
+
+should be able to understand p5 js editor codebase (it is an open source organization)
